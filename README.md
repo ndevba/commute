@@ -155,4 +155,3 @@ Starting point identified as: Nyon
 ## 🙏 Acknowledgments
 
 - [Swiss Public Transport Open Data](https://transport.opendata.ch/) for providing the free API
-- The Swiss public transport system for being amazingly punctual 🚂
